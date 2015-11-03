@@ -1,2 +1,2 @@
 # TicTaeToe
-It's TicTaeToe with Swift
+It's a Swift practice.
